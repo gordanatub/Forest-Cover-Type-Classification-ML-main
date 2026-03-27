@@ -50,10 +50,10 @@ CovtypeClassifier(
 
 ### Results
 The model achieves solid performance after training:
-- Final Test Precision: 83.79%
-- Final Test Recall: 83.71%
-- Validation Accuracy: Up to 86.25% during training
-- Significant Improvement: From initial 6.95% precision to 83.79% after training
+- Final Test Precision: 89.83%
+- Final Test Recall: 89.83%
+- Validation Accuracy: Up to 89.56% during training
+- Significant Improvement: From initial 24.42% precision to 89.83% after training
 
 ### Code Structure
 python
