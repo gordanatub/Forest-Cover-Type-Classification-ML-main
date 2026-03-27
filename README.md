@@ -1,4 +1,4 @@
-# Forest Cover Type Classification with PyTorch :palm_tree: :evergreen_tree: :deciduous_tree:
+#  :palm_tree: :evergreen_tree: :deciduous_tree: Forest Cover Type Classification with PyTorch :palm_tree: :evergreen_tree: :deciduous_tree:
 ## Project Overview
 This project implements a deep learning classifier using PyTorch to predict forest cover types from cartographic data. The model uses a multi-layer neural network with batch normalization and dropout regularization to classify forest cover into 7 different categories based on 54 input features.
 
